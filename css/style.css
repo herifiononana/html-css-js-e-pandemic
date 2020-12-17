@@ -11,6 +11,17 @@ html {
 	padding:0;
 	margin:0;
 }
+li a, p a{
+	text-decoration: none;
+}
+li a:hover, p a:hover{
+	color: #212121;
+	background-color: #78bbe6;
+	border-radius: 5%;
+}
+p{
+	text-align: justify;
+}
 .main {
 	padding:0;
 	margin:0;
@@ -370,4 +381,8 @@ ol li .send {
 	width:100%;
 	font-size:0;
 	line-height:0;
+}
+.imgGallery{
+	width: 55px;
+	height: 55px;
 }
