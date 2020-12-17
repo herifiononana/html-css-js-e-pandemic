@@ -5,7 +5,7 @@ body {
 	width:100%;
 	color:#959595;
 	font:normal 12px/1.8em Arial, Helvetica, sans-serif;
-	background:#e6e6e6 url(images/main_bottom_bg.gif) repeat-x bottom;
+	background:#e6e6e6 url(../images/main_bottom_bg.gif) repeat-x bottom;
 }
 html {
 	padding:0;
@@ -14,12 +14,12 @@ html {
 .main {
 	padding:0;
 	margin:0;
-	background:url(images/main_top_bg.gif) repeat-x top;
+	background:url(../images/main_top_bg.gif) repeat-x top;
 }
 .logo {
 	height:96px;
 	padding:0;
-	margin:0 auto;
+    margin:0 auto;
 }
 h1 {
 	margin:0;
@@ -91,14 +91,14 @@ a.rm, a.com {
 	list-style:none;
 	margin:0;
 	padding:0;
-	background:url(images/menu_bg.gif) repeat-x;
+	background:url(../images/menu_bg.gif) repeat-x;
 	height:38px;
 }
 .menu_nav ul li {
 	margin:0;
 	padding:0 2px 0 0;
 	float:left;
-	background:url(images/menu_line.gif) no-repeat right;
+	background:url(../images/menu_line.gif) no-repeat right;
 }
 .menu_nav ul li a {
 	display:block;
@@ -116,7 +116,7 @@ a.rm, a.com {
 }
 .content {
 	padding:9px;
-	background:url(images/content_border_bg.png);
+	background:url(../images/content_border_bg.png);
 	border:1px solid #a1a1a1;
 }
 .content_bg {
@@ -228,7 +228,7 @@ ul.ex_menu li a:hover {
 .fbg .col {
 	margin:0;
 	float:left;
-	background:url(images/fbg_line.gif) repeat-y right;
+	background:url(../images/fbg_line.gif) repeat-y right;
 }
 .fbg .c1 {
 	padding:0 15px 0 0;
